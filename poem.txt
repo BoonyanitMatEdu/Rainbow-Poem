@@ -4,5 +4,6 @@ Purple
 Pink
 Orange
 Blue
+Green
 Red
 Tehse are the colors of the rainbow.
